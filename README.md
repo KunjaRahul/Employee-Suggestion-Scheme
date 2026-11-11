@@ -51,7 +51,7 @@ This project demonstrates real-world **full stack development** in an industrial
 ### Tools & Platforms
 - XAMPP (Apache + MySQL)
 - Postman (API testing)
-- VS Code / IntelliJ IDEA
+- VS Code
 
 ---
 
